@@ -1,4 +1,4 @@
-# 0x00. AirBnB clone - The console
+# AirBnB clone
 
 ## What to learn
 The AirBnB clone project starts now until… the end of the first year. The goal of the project is to deploy on your server a simple copy of the [AirBnB website](https://intranet.alxswe.com/rltoken/m8g02HcD2ovrl_K-zulYBw).
