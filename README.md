@@ -13,7 +13,8 @@ An API that provides a communication interface between the front-end and your da
 
 ## Final Product
 
-![App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjulgachancipa%2FAirBnB_clone&psig=AOvVaw3EjTjCzfdmYlkSpbL3akq0&ust=1683677141368000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCZ7aD45v4CFQAAAAAdAAAAABAE)
+![App Screenshot](docs/img/AirBnB_1.png)
+![App Screenshot](docs/img/AirBnB_2.png)
 
 ## Command Line interpreter
 
