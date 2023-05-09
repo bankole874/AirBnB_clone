@@ -13,9 +13,7 @@ An API that provides a communication interface between the front-end and your da
 
 ## Final Product
 
-![App Screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/fe2e3e7701dec72ce612472dab9bb55fe0e9f6d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230508T111205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5e8a11f15025416e24ad6c4939ff1879caf6b0b3fa7339a94469ec7abc8968ef)
-
-![App Screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/da2584da58f1d99a72f0a4d8d22c1e485468f941.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230508T111205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e984d05222bb20bdcd9b8d1be22d5bed2d2de1c686f267367cfdefac15920d23)
+![App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjulgachancipa%2FAirBnB_clone&psig=AOvVaw3EjTjCzfdmYlkSpbL3akq0&ust=1683677141368000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCZ7aD45v4CFQAAAAAdAAAAABAE)
 
 ## Command Line interpreter
 
