@@ -39,4 +39,4 @@ During this project, we will learn how to manipulate HTML and CSS languages. HTM
 
 **Client:** HTML, CSS
 
-**VM(s)** Ubuntu 20.0.4, Ubuntu 14.04 - Python 3.4
+**VM(s):** Ubuntu 20.0.4, Ubuntu 14.04 - Python 3.4
